@@ -1,4 +1,7 @@
 # qgis_resources
+
+Styles:
+
 QGIS styles for environment and engineering work
 
 Phase 1 Habitat Surveys
